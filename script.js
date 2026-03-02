@@ -30,7 +30,7 @@ skills.forEach(s => {
 });
 
 /* ══ TYPEWRITER ══ */
-const names = ['i am Yahya Nour'];
+const names = ['I,am Yahia Nour'];
 let ci = 0, deleting = false, pause = false;
 const tw = document.getElementById('typewriter');
 function type() {
